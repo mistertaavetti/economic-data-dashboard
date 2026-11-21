@@ -73,7 +73,6 @@ The admin dashboard for uploading/updating economic data via CSV shipped as a pl
 - The newsroom's **P0 data deliverable**: the economic data platform became the flagship data product, live behind `api.infometrics.ng`.
 - Non-technical staff upload and refresh the data themselves via the admin console — the pipeline removed the engineer bottleneck from data updates.
 - Frontend migration to the v1 API contract completed behind the provider abstraction without a big-bang rewrite.
-- Ecosystem context (client-reported): the newsroom's five platforms — subscriptions, corporate index, dividends, deal flow, and this economic data platform — collectively serve **13M+ annual views and 470K monthly active users**.
 
 ## What I'd Do Differently
 
@@ -89,4 +88,4 @@ The admin dashboard for uploading/updating economic data via CSV shipped as a pl
 
 ---
 
-*Case study by David Aloba — [davidaloba.com](https://davidaloba.com) · [LinkedIn](https://linkedin.com/in/davidaloba)*
+*Case study by David Aloba. [code.davidaloba.com](https://code.davidaloba.com) · [LinkedIn](https://linkedin.com/in/mistertaavetti)*
