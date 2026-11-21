@@ -71,7 +71,7 @@ The admin dashboard for uploading/updating economic data via CSV shipped as a pl
 ## Outcomes
 
 - The newsroom's **P0 data deliverable**: the economic data platform became the flagship data product, live behind `api.infometrics.ng`.
-- Non-technical staff upload and refresh the data themselves via the admin console — the pipeline removed the engineer bottleneck from data updates.
+- Non-technical staff upload and refresh the data themselves via the admin console. The pipeline removed the engineer bottleneck from data updates.
 - Frontend migration to the v1 API contract completed behind the provider abstraction without a big-bang rewrite.
 
 ## What I'd Do Differently
